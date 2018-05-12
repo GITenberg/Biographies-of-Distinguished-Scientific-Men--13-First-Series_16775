@@ -32,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6924
     wikipedia: http://en.wikipedia.org/wiki/Fran%C3%A7ois_Arago
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16775#Biographies-of-Distinguished-Scientific-Men--13-First-Series
 gutenberg_issued: '2005-09-30'
 gutenberg_type: Text
 identifiers:
