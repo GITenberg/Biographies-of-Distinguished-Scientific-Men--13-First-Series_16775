@@ -1,0 +1,49 @@
+_repo: Biographies-of-Distinguished-Scientific-Men--13-First-Series_16775
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Grant, Robert
+    birthdate: 1814
+    deathdate: 1892
+    gutenberg_agent_id: '7546'
+    url: http://www.gutenberg.org/2009/agents/7546
+  - agent_name: Smyth, W. H. (William Henry)
+    alias: Smyth, William Henry
+    birthdate: 1788
+    deathdate: 1865
+    gutenberg_agent_id: '6925'
+    url: http://www.gutenberg.org/2009/agents/6925
+  - agent_name: Powell, Baden
+    birthdate: 1796
+    deathdate: 1860
+    gutenberg_agent_id: '6926'
+    url: http://www.gutenberg.org/2009/agents/6926
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Baden-Powell
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arago, François
+    alias: Aragó, Francesc Joan Dominic
+    birthdate: 1786
+    deathdate: 1853
+    gutenberg_agent_id: '6924'
+    url: http://www.gutenberg.org/2009/agents/6924
+    wikipedia: http://en.wikipedia.org/wiki/Fran%C3%A7ois_Arago
+description: ''
+gutenberg_issued: '2005-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16775'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Scientists -- Biography'
+tableOfContents: The history of my youth; an autobiography of Francis Arago -- Bailly
+  -- Herschel -- Laplace -- Joseph Fourier.
+title: "Biographies of Distinguished Scientific Men\r\nFirst Series"
+url: http://www.gutenberg.org/ebooks/16775
