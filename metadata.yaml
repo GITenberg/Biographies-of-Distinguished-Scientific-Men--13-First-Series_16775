@@ -45,6 +45,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'Q'
 - !lcsh 'Scientists -- Biography'
+- GITenberg
 tableOfContents: The history of my youth; an autobiography of Francis Arago -- Bailly
   -- Herschel -- Laplace -- Joseph Fourier.
 title: "Biographies of Distinguished Scientific Men\r\nFirst Series"
